@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Firstprogram.Properties" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.google.co.in</Value>
+    </Setting>
+    <Setting Name="Url2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://opensource-demo.orangehrmlive.com/index.php/auth/login</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
